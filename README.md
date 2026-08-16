@@ -16,7 +16,7 @@ operations, and automated staff workflows on Supabase.
 ### 🚀 Featured Projects
 | Project | Focus |
 |---------|-------|
-| **[-coterie-sanctuary-pos](https://github.com/kelvinkiendi/-coterie-sanctuary-pos)** | Database architecture, payment integration, RBAC, API design |
+| **[coterie-sanctuary-pos](https://github.com/kelvinkiendi/coterie-sanctuary-pos)** | Database architecture, payment integration, RBAC, API design |
 | **[backend-portfolio](https://github.com/kelvinkiendi/backend-portfolio)** | Curated backend systems, schema designs, and API documentation |
 | **[mpesa-daraja-module](https://github.com/kelvinkiendi/mpesa-daraja-module)** | Reusable MPesa STK push & callback handler module |
 
