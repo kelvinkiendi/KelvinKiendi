@@ -1,4 +1,4 @@
-cat > README.md << 'EOF'
+
 # Kelvin Mbithi Kiendi
 
 **Backend Developer | Nairobi, Kenya**
