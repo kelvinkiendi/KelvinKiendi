@@ -16,10 +16,9 @@ operations, and automated staff workflows on Supabase.
 ### 🚀 Featured Projects
 | Project | Focus |
 |---------|-------|
-| **[coterie-sanctuary-pos](https://github.com/kelvinkiendi/coterie-sanctuary-pos)** | Database architecture, payment integration, RBAC, API design |
-| **[backend-portfolio](https://github.com/kelvinkiendi/backend-portfolio)** | Curated backend systems, schema designs, and API documentation |
-| **[mpesa-daraja-module](https://github.com/kelvinkiendi/mpesa-daraja-module)** | Reusable MPesa STK push & callback handler module |
-
+| **[coteriesanctuary](https://github.com/kelvinkiendi/coteriesanctuary)** | Full-stack POS — PostgreSQL, MPesa payments, RBAC, 87+ commits |
+| **[backend-portfolio](https://github.com/kelvinkiendi/backend-portfolio)** | Curated backend systems index |
+| **[mpesa-daraja-module](https://github.com/kelvinkiendi/mpesa-daraja-module)** | Reusable MPesa STK push & callback handler |
 ### 📈 Currently Building
 - Advanced PostgreSQL indexing & query optimization
 - System design patterns for fintech backends
