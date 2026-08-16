@@ -26,10 +26,4 @@ operations, and automated staff workflows on Supabase.
 - CI/CD pipelines with GitHub Actions
 
 📫 [LinkedIn](https://ke.linkedin.com/in/kelvin-mbithi)
-EOF
-git init
-git add README.md
-git commit -m "feat(profile): add professional backend developer README"
-git branch -M main
-git remote add origin https://github.com/kelvinkiendi/kelvinkiendi.git
-git push -u origin main
+
